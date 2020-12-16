@@ -48,12 +48,12 @@ app.layout = html.Div([
     html.H1('NBA Players Age Factor Analysis', style={'textAlign': 'center'}),
     html.Br(),
 
-    html.Div(style={'width': '10%', 'display': 'inline-block'}),    # 这里改一下width可以改变Team的位置
+    html.Div(style={'width': '10%', 'display': 'inline-block'}),    # 改width可以改变Team的位置
     html.Div(["Team: ", dcc.Dropdown(options=all_teams,
                                     id='team',
                                     value=all_datas.loc[0,'Team']),
               ],
-             style={'width': '20%', 'display': 'inline-block'}         # 这里改一下width可以改变部件的长度
+             style={'width': '20%', 'display': 'inline-block'}         # 改width可以改变长度
              ),
 
     html.Div(style={'width': '10%', 'display': 'inline-block'}),
@@ -153,7 +153,7 @@ def update_output_div1(team, attribute, age):
 )
 def update_output_div2(team):
     img = html.Img(src="./team_logo/{}.png".format(team), style={'display': 'inline-block'})       
-    return img          # 队徽显示不出来，后期能显示出来再加上
+    #return img          # 队徽显示不出来
 
 if __name__ == '__main__':
     app.run_server(debug=True)
