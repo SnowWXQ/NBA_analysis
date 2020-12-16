@@ -69,4 +69,4 @@ for i,link in enumerate(all_team_url):
         f.write(team_logo.content)
 
 print(all_datas)
-# all_datas.to_csv('./all_players.csv', encoding='utf-8', header=False, index=False)
+all_datas.to_csv('./all_players.csv', encoding='utf-8', header=False, index=False)
