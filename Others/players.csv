@@ -1,0 +1,435 @@
+Name,Team,Position,Age,Height,Weight,College,Salary
+Jaylen Brown,Boston Celtics,SG,24,6' 6",223 lbs,California,"$23,735,118 "
+Carsen Edwards,Boston Celtics,PG,22,5' 11",200 lbs,Purdue,"$1,517,981 "
+Tacko Fall,Boston Celtics,C,25,7' 5",311 lbs,UCF,--
+Javonte Green,Boston Celtics,SG,27,6' 4",205 lbs,Radford,"$1,517,981 "
+Amile Jefferson,Boston Celtics,PF,27,6' 9",222 lbs,Duke,--
+Romeo Langford,Boston Celtics,SG,21,6' 4",216 lbs,Indiana,"$3,631,200 "
+Yam Madar,Boston Celtics,PG,19,6' 3",180 lbs,--,--
+Aaron Nesmith,Boston Celtics,SF,21,6' 6",215 lbs,Vanderbilt,"$3,458,400 "
+Semi Ojeleye,Boston Celtics,PF,26,6' 6",240 lbs,SMU,"$1,752,950 "
+Payton Pritchard,Boston Celtics,PG,22,6' 2",206 lbs,Oregon,"$2,193,480 "
+Marcus Smart,Boston Celtics,PG,26,6' 3",220 lbs,Oklahoma State,"$13,446,428 "
+Jayson Tatum,Boston Celtics,PF,22,6' 8",210 lbs,Duke,"$9,897,120 "
+Jeff Teague,Boston Celtics,PG,32,6' 3",195 lbs,Wake Forest,"$1,620,564 "
+Daniel Theis,Boston Celtics,C,28,6' 8",245 lbs,--,"$5,000,000 "
+Tristan Thompson,Boston Celtics,C,29,6' 9",254 lbs,Texas,"$9,258,000 "
+Kemba Walker,Boston Celtics,PG,30,6' 0",184 lbs,Connecticut,"$34,379,100 "
+Tremont Waters,Boston Celtics,PG,22,5' 10",175 lbs,LSU,--
+Grant Williams,Boston Celtics,PF,22,6' 6",236 lbs,Tennessee,"$2,498,760 "
+Robert Williams III,Boston Celtics,C,23,6' 8",237 lbs,Texas A&M,"$2,029,920 "
+Jarrett Allen,Brooklyn Nets,C,22,6' 11",243 lbs,Texas,"$3,909,902 "
+Bruce Brown,Brooklyn Nets,SG,24,6' 4",202 lbs,Miami (FL),"$1,663,861 "
+Chris Chiozza,Brooklyn Nets,PG,25,5' 11",176 lbs,Florida,--
+Nicolas Claxton,Brooklyn Nets,PF,21,6' 11",215 lbs,Georgia,"$1,517,981 "
+Spencer Dinwiddie,Brooklyn Nets,PG,27,6' 5",215 lbs,Colorado,"$11,454,048 "
+Kevin Durant,Brooklyn Nets,SF,32,6' 10",240 lbs,Texas,"$40,108,950 "
+Jeff Green,Brooklyn Nets,PF,34,6' 8",235 lbs,Georgetown,"$1,620,564 "
+Joe Harris,Brooklyn Nets,SG,29,6' 6",220 lbs,Virginia,"$16,071,429 "
+Kyrie Irving,Brooklyn Nets,PG,28,6' 2",195 lbs,Duke,"$31,742,000 "
+Tyler Johnson,Brooklyn Nets,SG,28,6' 4",190 lbs,Fresno State,"$1,620,564 "
+DeAndre Jordan,Brooklyn Nets,C,32,6' 11",265 lbs,Texas A&M,"$10,375,678 "
+Rodions Kurucs,Brooklyn Nets,SF,22,6' 9",228 lbs,--,"$1,780,152 "
+Caris LeVert,Brooklyn Nets,SG,26,6' 6",205 lbs,Michigan,"$16,203,704 "
+Timothe Luwawu-Cabarrot,Brooklyn Nets,SG,25,6' 7",210 lbs,--,"$654,469 "
+Jeremiah Martin,Brooklyn Nets,PG,24,6' 2",185 lbs,Memphis,--
+Reggie Perry,Brooklyn Nets,F,20,6' 10",250 lbs,Mississippi State,--
+Taurean Prince,Brooklyn Nets,PF,26,6' 7",218 lbs,Baylor,"$12,250,000 "
+Landry Shamet,Brooklyn Nets,SG,23,6' 4",190 lbs,Wichita State,"$2,090,040 "
+RJ Barrett,New York Knicks,SG,20,6' 7",214 lbs,Duke,"$8,231,760 "
+Ignas Brazdeikis,New York Knicks,SF,21,6' 7",226 lbs,Michigan,"$1,517,981 "
+Reggie Bullock,New York Knicks,SF,29,6' 7",205 lbs,North Carolina,"$4,200,000 "
+Alec Burks,New York Knicks,SG,29,6' 6",240 lbs,Colorado,"$6,000,000 "
+Jared Harper,New York Knicks,PG,23,5' 10",175 lbs,Auburn,--
+Michael Kidd-Gilchrist,New York Knicks,SF,27,6' 6",230 lbs,Kentucky,--
+Kevin Knox II,New York Knicks,SF,21,6' 8",218 lbs,Kentucky,"$4,588,680 "
+Nerlens Noel,New York Knicks,C,26,6' 10",220 lbs,Kentucky,"$5,000,000 "
+Frank Ntilikina,New York Knicks,PG,22,6' 5",197 lbs,--,"$6,176,578 "
+Elfrid Payton,New York Knicks,PG,26,6' 3",195 lbs,Louisiana-Lafayette,"$5,000,000 "
+Theo Pinson,New York Knicks,SG,25,6' 5",210 lbs,North Carolina,"$1,445,697 "
+Myles Powell,New York Knicks,SG,23,6' 2",195 lbs,Seton Hall,--
+Immanuel Quickley,New York Knicks,SG,21,6' 3",188 lbs,Kentucky,"$2,105,520 "
+Julius Randle,New York Knicks,PF,26,6' 9",255 lbs,Kentucky,"$18,900,000 "
+Austin Rivers,New York Knicks,PG,28,6' 3",200 lbs,Duke,"$3,500,000 "
+Mitchell Robinson,New York Knicks,C,22,7' 0",240 lbs,Western Kentucky,"$1,663,861 "
+Dennis Smith Jr.,New York Knicks,PG,23,6' 3",205 lbs,North Carolina State,"$5,686,677 "
+Omari Spellman,New York Knicks,PF,23,6' 8",245 lbs,Villanova,"$1,988,280 "
+Obi Toppin,New York Knicks,PF,22,6' 9",240 lbs,Dayton,"$4,862,040 "
+Justin Anderson,Philadelphia 76Ers,SG,27,6' 5",231 lbs,Virginia,--
+Tony Bradley,Philadelphia 76Ers,C,22,6' 10",248 lbs,North Carolina,"$3,542,060 "
+Ryan Broekhoff,Philadelphia 76Ers,SG,30,6' 6",215 lbs,Valparaiso,--
+Seth Curry,Philadelphia 76Ers,SG,30,6' 2",185 lbs,Duke,"$7,834,449 "
+Joel Embiid,Philadelphia 76Ers,C,26,7' 0",280 lbs,Kansas,"$29,542,010 "
+Terrance Ferguson,Philadelphia 76Ers,SF,22,6' 6",190 lbs,--,"$3,944,013 "
+Danny Green,Philadelphia 76Ers,SG,33,6' 6",215 lbs,North Carolina,"$15,365,853 "
+Tobias Harris,Philadelphia 76Ers,SF,28,6' 8",226 lbs,Tennessee,"$34,358,850 "
+Dwight Howard,Philadelphia 76Ers,C,35,6' 10",265 lbs,--,"$1,620,564 "
+Isaiah Joe,Philadelphia 76Ers,G,21,6' 5",180 lbs,Arkansas,"$898,310 "
+Furkan Korkmaz,Philadelphia 76Ers,SG,23,6' 7",202 lbs,--,"$1,762,796 "
+Dakota Mathias,Philadelphia 76Ers,SG,25,6' 4",200 lbs,Purdue,--
+Tyrese Maxey,Philadelphia 76Ers,PG,20,6' 3",200 lbs,Kentucky,"$2,478,840 "
+Shake Milton,Philadelphia 76Ers,SG,24,6' 5",205 lbs,SMU,"$1,701,593 "
+Kyle O'Quinn,Philadelphia 76Ers,C,30,6' 9",250 lbs,Norfolk State,--
+Vincent Poirier,Philadelphia 76Ers,C,27,7' 0",235 lbs,--,"$2,619,207 "
+Paul Reed,Philadelphia 76Ers,F,21,6' 9",210 lbs,DePaul,--
+Mike Scott,Philadelphia 76Ers,PF,32,6' 7",237 lbs,Virginia,"$5,005,350 "
+Ben Simmons,Philadelphia 76Ers,PG,24,6' 10",240 lbs,LSU,"$30,559,200 "
+Matisse Thybulle,Philadelphia 76Ers,SG,23,6' 5",201 lbs,Washington,"$2,711,280 "
+Derrick Walton Jr.,Philadelphia 76Ers,PG,25,6' 0",185 lbs,Michigan,--
+OG Anunoby,Toronto Raptors,SF,23,6' 8",232 lbs,Indiana,"$3,872,215 "
+Aron Baynes,Toronto Raptors,C,34,6' 10",260 lbs,Washington State,"$7,000,000 "
+DeAndre' Bembry,Toronto Raptors,SF,26,6' 5",210 lbs,Saint Joseph's,"$1,737,145 "
+Chris Boucher,Toronto Raptors,PF,27,6' 10",200 lbs,Oregon,"$6,750,000 "
+Oshae Brissett,Toronto Raptors,SF,22,6' 8",210 lbs,Syracuse,"$1,445,697 "
+Terence Davis II,Toronto Raptors,SG,23,6' 4",205 lbs,Ole Miss,"$1,517,981 "
+Henry Ellenson,Toronto Raptors,C,23,6' 10",240 lbs,Marquette,--
+Malachi Flynn,Toronto Raptors,PG,22,6' 1",185 lbs,San Diego State,"$1,950,600 "
+Jalen Harris,Toronto Raptors,G,22,6' 5",195 lbs,Nevada,--
+Alize Johnson,Toronto Raptors,PF,24,6' 9",212 lbs,Missouri State,--
+Stanley Johnson,Toronto Raptors,SF,24,6' 7",245 lbs,Arizona,"$3,804,150 "
+Alex Len,Toronto Raptors,C,27,7' 0",250 lbs,Maryland,"$2,258,000 "
+Kyle Lowry,Toronto Raptors,PG,34,6' 1",196 lbs,Villanova,"$30,500,000 "
+Patrick McCaw,Toronto Raptors,SF,25,6' 7",185 lbs,UNLV,"$4,000,000 "
+Norman Powell,Toronto Raptors,SG,27,6' 4",215 lbs,UCLA,"$10,865,952 "
+Pascal Siakam,Toronto Raptors,PF,26,6' 9",230 lbs,New Mexico State,"$30,559,200 "
+Matt Thomas,Toronto Raptors,SG,26,6' 4",190 lbs,Iowa State,"$1,517,981 "
+Fred VanVleet,Toronto Raptors,SG,26,6' 0",195 lbs,Wichita State,"$21,250,000 "
+Yuta Watanabe,Toronto Raptors,SF,26,6' 9",205 lbs,George Washington,--
+Paul Watson,Toronto Raptors,SG,25,6' 6",210 lbs,Fresno State,--
+Ryan Arcidiacono,Chicago Bulls,PG,26,6' 3",195 lbs,Villanova,"$3,000,000 "
+Wendell Carter Jr.,Chicago Bulls,C,21,6' 9",270 lbs,Duke,"$5,448,840 "
+Devon Dotson,Chicago Bulls,PG,21,6' 2",179 lbs,Kansas,--
+Cristiano Felicio,Chicago Bulls,PF,28,6' 10",270 lbs,--,"$7,529,020 "
+Daniel Gafford,Chicago Bulls,PF,22,6' 10",234 lbs,Arkansas,"$1,517,981 "
+Chandler Hutchison,Chicago Bulls,SF,24,6' 7",210 lbs,Boise State,"$2,443,440 "
+Luke Kornet,Chicago Bulls,C,25,7' 2",250 lbs,Vanderbilt,"$2,250,000 "
+Zach LaVine,Chicago Bulls,SG,25,6' 6",200 lbs,UCLA,"$19,500,000 "
+Lauri Markkanen,Chicago Bulls,PF,23,7' 0",240 lbs,Arizona,"$6,731,508 "
+Adam Mokoka,Chicago Bulls,SG,22,6' 5",190 lbs,--,--
+Zach Norvell Jr.,Chicago Bulls,SG,23,6' 5",205 lbs,Gonzaga,--
+Otto Porter Jr.,Chicago Bulls,SF,27,6' 8",198 lbs,Georgetown,"$28,489,237 "
+Tomas Satoransky,Chicago Bulls,SG,29,6' 7",210 lbs,--,"$10,000,000 "
+Simi Shittu,Chicago Bulls,C,21,6' 10",240 lbs,Vanderbilt,--
+Garrett Temple,Chicago Bulls,SG,34,6' 5",195 lbs,LSU,"$4,767,000 "
+Denzel Valentine,Chicago Bulls,SG,27,6' 4",220 lbs,Michigan State,"$4,642,800 "
+Noah Vonleh,Chicago Bulls,PF,25,6' 10",257 lbs,Indiana,--
+Coby White,Chicago Bulls,PG,20,6' 4",195 lbs,North Carolina,"$5,572,680 "
+Patrick Williams,Chicago Bulls,SF,19,6' 8",225 lbs,Florida State,"$7,068,360 "
+Thaddeus Young,Chicago Bulls,PF,32,6' 8",235 lbs,Georgia Tech,"$13,545,000 "
+Marques Bolden,Cleveland Cavaliers,C,22,6' 11",250 lbs,Duke,--
+Matthew Dellavedova,Cleveland Cavaliers,PG,30,6' 3",200 lbs,Saint Mary's,"$1,620,564 "
+Damyean Dotson,Cleveland Cavaliers,SG,26,6' 5",205 lbs,Houston,"$2,000,000 "
+Andre Drummond,Cleveland Cavaliers,C,27,6' 11",279 lbs,Connecticut,"$28,751,775 "
+Dante Exum,Cleveland Cavaliers,PG,25,6' 5",214 lbs,--,"$9,600,000 "
+Darius Garland,Cleveland Cavaliers,PG,20,6' 1",192 lbs,Vanderbilt,"$6,720,720 "
+Kevin Love,Cleveland Cavaliers,PF,32,6' 8",247 lbs,UCLA,"$31,258,256 "
+Thon Maker,Cleveland Cavaliers,C,23,7' 0",221 lbs,--,--
+Charles Matthews,Cleveland Cavaliers,G,24,6' 6",205 lbs,Michigan,--
+JaVale McGee,Cleveland Cavaliers,C,32,7' 0",270 lbs,Nevada,"$4,200,000 "
+Matt Mooney,Cleveland Cavaliers,SG,23,6' 3",200 lbs,Texas Tech,--
+Larry Nance Jr.,Cleveland Cavaliers,PF,27,6' 7",245 lbs,Wyoming,"$11,709,091 "
+Isaac Okoro,Cleveland Cavaliers,SG,19,6' 5",225 lbs,Auburn,"$6,400,920 "
+Cedi Osman,Cleveland Cavaliers,SF,25,6' 7",230 lbs,--,"$8,840,580 "
+Kevin Porter Jr.,Cleveland Cavaliers,SG,20,6' 4",203 lbs,USC,"$1,717,981 "
+Levi Randolph,Cleveland Cavaliers,SG,28,6' 5",208 lbs,Alabama,--
+Collin Sexton,Cleveland Cavaliers,PG,21,6' 1",192 lbs,Alabama,"$4,991,880 "
+Lamar Stevens,Cleveland Cavaliers,PF,23,6' 8",225 lbs,Penn State,--
+Dean Wade,Cleveland Cavaliers,PF,24,6' 9",219 lbs,Kansas State,"$1,517,981 "
+Dylan Windler,Cleveland Cavaliers,SG,24,6' 6",199 lbs,Belmont,"$2,137,440 "
+LiAngelo Ball,Detroit Pistons,SG,22,6' 5",230 lbs,UCLA,--
+Saddiq Bey,Detroit Pistons,SG,21,6' 8",216 lbs,Villanova,"$2,689,920 "
+Sekou Doumbouya,Detroit Pistons,SF,19,6' 8",230 lbs,--,"$3,449,400 "
+Wayne Ellington,Detroit Pistons,SG,33,6' 4",207 lbs,North Carolina,"$1,620,564 "
+Jerami Grant,Detroit Pistons,PF,26,6' 8",210 lbs,Syracuse,"$19,050,000 "
+Blake Griffin,Detroit Pistons,PF,31,6' 9",250 lbs,Oklahoma,"$36,810,996 "
+Killian Hayes,Detroit Pistons,PG,19,6' 5",192 lbs,--,"$5,307,120 "
+Josh Jackson,Detroit Pistons,SG,23,6' 8",207 lbs,Kansas,"$4,767,000 "
+Louis King,Detroit Pistons,SF,21,6' 7",205 lbs,Oregon,--
+Anthony Lamb,Detroit Pistons,SF,22,6' 6",225 lbs,Vermont,--
+Saben Lee,Detroit Pistons,PG,21,6' 2",183 lbs,Vanderbilt,--
+Rodney McGruder,Detroit Pistons,SG,29,6' 4",205 lbs,Kansas State,"$5,192,307 "
+Dzanan Musa,Detroit Pistons,SG,21,6' 9",217 lbs,--,"$2,002,800 "
+Sviatoslav Mykhailiuk,Detroit Pistons,SG,23,6' 7",205 lbs,Kansas,"$1,663,861 "
+Jahlil Okafor,Detroit Pistons,C,24,6' 10",270 lbs,Duke,"$1,882,867 "
+Mason Plumlee,Detroit Pistons,PF,30,6' 11",254 lbs,Duke,"$8,000,000 "
+Derrick Rose,Detroit Pistons,PG,32,6' 2",200 lbs,Memphis,"$7,682,927 "
+Deividas Sirvydis,Detroit Pistons,SF,20,6' 8",190 lbs,--,"$898,310 "
+Isaiah Stewart,Detroit Pistons,C,19,6' 9",250 lbs,Washington,"$3,121,080 "
+Delon Wright,Detroit Pistons,PG,28,6' 5",185 lbs,Utah,"$9,000,000 "
+Goga Bitadze,Indiana Pacers,C,21,6' 11",250 lbs,--,"$2,957,520 "
+Brian Bowen II,Indiana Pacers,SG,22,6' 6",190 lbs,--,--
+Amida Brimah,Indiana Pacers,C,26,6' 10",230 lbs,Connecticut,--
+Malcolm Brogdon,Indiana Pacers,PG,28,6' 5",229 lbs,Virginia,"$20,700,000 "
+Rayshaun Hammonds,Indiana Pacers,SF,22,6' 7",235 lbs,Georgia,--
+Aaron Holiday,Indiana Pacers,PG,24,6' 0",185 lbs,UCLA,"$2,345,640 "
+Justin Holiday,Indiana Pacers,SF,31,6' 6",180 lbs,Washington,"$5,720,000 "
+Jeremy Lamb,Indiana Pacers,SG,28,6' 5",180 lbs,Connecticut,"$10,500,000 "
+Jalen Lecque,Indiana Pacers,PG,20,6' 4",185 lbs,--,"$1,517,981 "
+Kelan Martin,Indiana Pacers,SF,25,6' 5",230 lbs,Butler,--
+T.J. McConnell,Indiana Pacers,PG,28,6' 1",190 lbs,Arizona,"$3,500,000 "
+Doug McDermott,Indiana Pacers,SF,28,6' 7",225 lbs,Creighton,"$7,333,333 "
+Naz Mitrou-Long,Indiana Pacers,SG,27,6' 3",218 lbs,Iowa State,--
+Victor Oladipo,Indiana Pacers,SG,28,6' 4",213 lbs,Indiana,"$21,000,000 "
+Domantas Sabonis,Indiana Pacers,PF,24,6' 11",240 lbs,Gonzaga,"$19,800,000 "
+JaKarr Sampson,Indiana Pacers,SF,27,6' 7",214 lbs,St. John's,"$1,620,564 "
+Cassius Stanley,Indiana Pacers,SG,21,6' 6",195 lbs,Duke,--
+Edmond Sumner,Indiana Pacers,PG,24,6' 4",196 lbs,Xavier,"$2,160,000 "
+Myles Turner,Indiana Pacers,C,24,6' 11",250 lbs,Texas,"$18,000,000 "
+T.J. Warren,Indiana Pacers,SF,27,6' 8",220 lbs,North Carolina State,"$12,500,000 "
+Jaylen Adams,Milwaukee Bucks,PG,24,6' 2",190 lbs,St. Bonaventure,"$1,416,852 "
+Giannis Antetokounmpo,Milwaukee Bucks,PF,26,6' 11",242 lbs,--,"$27,528,090 "
+Thanasis Antetokounmpo,Milwaukee Bucks,SF,28,6' 6",219 lbs,--,"$1,701,593 "
+D.J. Augustin,Milwaukee Bucks,PG,33,5' 11",183 lbs,Texas,"$6,666,667 "
+Pat Connaughton,Milwaukee Bucks,SG,27,6' 5",209 lbs,Notre Dame,"$4,938,272 "
+Torrey Craig,Milwaukee Bucks,SF,29,6' 7",221 lbs,USC Upstate,"$1,620,564 "
+Donte DiVincenzo,Milwaukee Bucks,SG,23,6' 4",203 lbs,Villanova,"$3,044,160 "
+Mamadi Diakite,Milwaukee Bucks,PF,23,6' 9",228 lbs,Virginia,--
+Bryn Forbes,Milwaukee Bucks,SG,27,6' 2",205 lbs,Michigan State,"$2,337,145 "
+Treveon Graham,Milwaukee Bucks,SF,27,6' 5",219 lbs,Virginia Commonwealth,--
+Jrue Holiday,Milwaukee Bucks,SG,30,6' 3",205 lbs,UCLA,"$26,231,111 "
+Ersan Ilyasova,Milwaukee Bucks,PF,33,6' 9",235 lbs,--,--
+Kyle Korver,Milwaukee Bucks,SG,39,6' 7",212 lbs,Creighton,--
+Brook Lopez,Milwaukee Bucks,C,32,7' 0",282 lbs,Stanford,"$12,697,674 "
+Frank Mason III,Milwaukee Bucks,PG,26,5' 11",190 lbs,Kansas,--
+Sam Merrill,Milwaukee Bucks,G,24,6' 5",205 lbs,Utah State,"$898,310 "
+Khris Middleton,Milwaukee Bucks,SF,29,6' 7",222 lbs,Texas A&M,"$33,051,724 "
+EJ Montgomery,Milwaukee Bucks,PF,21,6' 10",228 lbs,Kentucky,--
+Jordan Nwora,Milwaukee Bucks,F,22,6' 8",225 lbs,Louisville,--
+Justin Patton,Milwaukee Bucks,C,23,6' 11",241 lbs,Creighton,--
+Bobby Portis,Milwaukee Bucks,PF,25,6' 10",250 lbs,Arkansas,"$3,623,000 "
+Nik Stauskas,Milwaukee Bucks,SG,27,6' 6",205 lbs,Michigan,--
+Marvin Williams,Milwaukee Bucks,PF,34,6' 8",237 lbs,North Carolina,--
+D.J. Wilson,Milwaukee Bucks,PF,24,6' 10",231 lbs,Michigan,"$4,548,280 "
+Will Barton,Denver Nuggets,SF,29,6' 5",181 lbs,Memphis,"$13,723,214 "
+Bol Bol,Denver Nuggets,C,21,7' 2",209 lbs,Oregon,"$2,058,240 "
+Facundo Campazzo,Denver Nuggets,PG,29,5' 11",165 lbs,--,"$3,200,000 "
+Vlatko Cancar,Denver Nuggets,SF,23,6' 8",236 lbs,--,"$1,517,981 "
+PJ Dozier,Denver Nuggets,PG,24,6' 6",205 lbs,South Carolina,"$1,762,796 "
+JaMychal Green,Denver Nuggets,PF,30,6' 8",227 lbs,Alabama,"$7,199,760 "
+RJ Hampton,Denver Nuggets,PG,19,6' 6",176 lbs,--,"$2,193,040 "
+Gary Harris,Denver Nuggets,SG,26,6' 4",205 lbs,Michigan State,"$19,610,714 "
+Isaiah Hartenstein,Denver Nuggets,C,22,7' 0",249 lbs,--,"$1,620,564 "
+Markus Howard,Denver Nuggets,PG,21,5' 11",180 lbs,Marquette,--
+Nikola Jokic,Denver Nuggets,C,25,7' 0",284 lbs,--,"$29,542,010 "
+Paul Millsap,Denver Nuggets,PF,35,6' 7",257 lbs,Louisiana Tech,"$1,000,000 "
+Monte Morris,Denver Nuggets,PG,25,6' 2",183 lbs,Iowa State,"$1,588,231 "
+Jamal Murray,Denver Nuggets,PG,23,6' 4",215 lbs,Kentucky,"$27,285,000 "
+Zeke Nnaji,Denver Nuggets,PF,19,6' 11",240 lbs,Arizona,"$2,284,800 "
+Michael Porter Jr.,Denver Nuggets,PF,22,6' 10",218 lbs,Missouri,"$3,550,800 "
+Greg Whittington,Denver Nuggets,SF,27,6' 8",212 lbs,Georgetown,--
+Malik Beasley,Minnesota Timberwolves,SG,24,6' 4",187 lbs,Florida State,"$13,425,895 "
+Leandro Bolmaro,Minnesota Timberwolves,G,20,6' 7",182 lbs,--,--
+Charlie Brown Jr.,Minnesota Timberwolves,SG,23,6' 6",199 lbs,Saint Joseph's,--
+Tyler Cook,Minnesota Timberwolves,PF,23,6' 8",255 lbs,Iowa,--
+Jarrett Culver,Minnesota Timberwolves,SG,21,6' 6",195 lbs,Texas Tech,"$6,104,280 "
+Ed Davis,Minnesota Timberwolves,C,31,6' 9",218 lbs,North Carolina,"$5,005,350 "
+Anthony Edwards,Minnesota Timberwolves,SG,19,6' 3",235 lbs,Georgia,"$9,757,440 "
+Ashton Hagans,Minnesota Timberwolves,PG,21,6' 3",200 lbs,Kentucky,--
+Juan Hernangomez,Minnesota Timberwolves,PF,25,6' 9",214 lbs,--,"$6,493,000 "
+Rondae Hollis-Jefferson,Minnesota Timberwolves,SF,25,6' 6",217 lbs,Arizona,--
+Jake Layman,Minnesota Timberwolves,SF,26,6' 8",209 lbs,Maryland,"$3,761,085 "
+Jaden McDaniels,Minnesota Timberwolves,PF,20,6' 10",201 lbs,Washington,"$1,964,760 "
+Jordan McLaughlin,Minnesota Timberwolves,PG,24,5' 11",185 lbs,USC,--
+Ade Murkey,Minnesota Timberwolves,G,22,6' 5",200 lbs,Denver,--
+Jaylen Nowell,Minnesota Timberwolves,SG,21,6' 4",201 lbs,Washington,"$1,517,981 "
+Josh Okogie,Minnesota Timberwolves,SF,22,6' 4",213 lbs,Georgia Tech,"$2,651,040 "
+Naz Reid,Minnesota Timberwolves,C,21,6' 9",264 lbs,LSU,"$1,517,981 "
+Ricky Rubio,Minnesota Timberwolves,PG,30,6' 3",190 lbs,--,"$17,000,000 "
+D'Angelo Russell,Minnesota Timberwolves,SG,24,6' 4",193 lbs,Ohio State,"$28,649,250 "
+Karl-Anthony Towns,Minnesota Timberwolves,C,25,6' 11",248 lbs,Kentucky,"$29,467,800 "
+Jarred Vanderbilt,Minnesota Timberwolves,PF,21,6' 9",214 lbs,Kentucky,"$1,663,361 "
+Trevor Ariza,Oklahoma City Thunder,SF,35,6' 8",215 lbs,UCLA,"$12,800,000 "
+Darius Bazley,Oklahoma City Thunder,SF,20,6' 8",208 lbs,--,"$2,339,160 "
+Moses Brown,Oklahoma City Thunder,C,21,7' 1",245 lbs,UCLA,--
+Deonte Burton,Oklahoma City Thunder,SG,26,6' 4",240 lbs,Iowa State,--
+Antonius Cleveland,Oklahoma City Thunder,SG,26,6' 5",195 lbs,Southeast Missouri State,--
+Hamidou Diallo,Oklahoma City Thunder,SG,22,6' 5",202 lbs,Kentucky,"$1,416,852 "
+Luguentz Dort,Oklahoma City Thunder,SG,21,6' 3",215 lbs,Arizona State,"$1,517,981 "
+Shai Gilgeous-Alexander,Oklahoma City Thunder,SG,22,6' 5",180 lbs,Kentucky,"$4,141,320 "
+Josh Hall,Oklahoma City Thunder,F,20,6' 8",200 lbs,--,--
+Kevin Hervey,Oklahoma City Thunder,PF,24,6' 9",230 lbs,Texas-Arlington,--
+George Hill,Oklahoma City Thunder,PG,34,6' 3",188 lbs,IUPUI,"$9,590,602 "
+Al Horford,Oklahoma City Thunder,PF,34,6' 9",240 lbs,Florida,"$27,500,000 "
+Frank Jackson,Oklahoma City Thunder,PG,22,6' 3",205 lbs,Duke,--
+Justin Jackson,Oklahoma City Thunder,SF,25,6' 7",220 lbs,North Carolina,"$5,029,650 "
+Ty Jerome,Oklahoma City Thunder,SG,23,6' 5",195 lbs,Virginia,"$2,303,040 "
+Vit Krejci,Oklahoma City Thunder,PG,20,6' 7",--,--,--
+T.J. Leaf,Oklahoma City Thunder,PF,23,6' 10",222 lbs,UCLA,"$4,326,825 "
+Theo Maledon,Oklahoma City Thunder,PG,19,6' 5",180 lbs,--,--
+Vasilije Micic,Oklahoma City Thunder,PG,26,6' 5",203 lbs,--,--
+Darius Miller,Oklahoma City Thunder,SF,30,6' 6",225 lbs,Kentucky,"$7,000,000 "
+Mike Muscala,Oklahoma City Thunder,PF,29,6' 10",240 lbs,Bucknell,"$2,283,034 "
+Aleksej Pokusevski,Oklahoma City Thunder,PF,18,7' 0",195 lbs,--,"$2,964,840 "
+Andre Roberson,Oklahoma City Thunder,SG,29,6' 7",210 lbs,Colorado,--
+Isaiah Roby,Oklahoma City Thunder,SF,22,6' 8",230 lbs,Nebraska,"$1,517,981 "
+Admiral Schofield,Oklahoma City Thunder,SG,23,6' 5",241 lbs,Tennessee,"$1,517,981 "
+Kenrich Williams,Oklahoma City Thunder,SF,26,6' 6",210 lbs,TCU,"$1,416,852 "
+Carmelo Anthony,Portland Trail Blazers,PF,36,6' 8",238 lbs,Syracuse,"$1,620,564 "
+Keljin Blevins,Portland Trail Blazers,G,25,6' 6",200 lbs,Montana State,--
+Zach Collins,Portland Trail Blazers,PF,23,6' 11",250 lbs,Gonzaga,"$5,406,255 "
+Robert Covington,Portland Trail Blazers,PF,29,6' 7",209 lbs,Tennessee State,"$12,138,345 "
+CJ Elleby,Portland Trail Blazers,F,20,6' 6",200 lbs,Washington State,"$898,310 "
+Harry Giles III,Portland Trail Blazers,C,22,6' 11",240 lbs,Duke,"$1,620,564 "
+Jaylen Hoard,Portland Trail Blazers,SF,21,6' 8",216 lbs,Wake Forest,--
+Rodney Hood,Portland Trail Blazers,SF,28,6' 8",208 lbs,Duke,"$10,047,450 "
+Derrick Jones Jr.,Portland Trail Blazers,SF,23,6' 6",210 lbs,UNLV,"$9,258,000 "
+Enes Kanter,Portland Trail Blazers,C,28,6' 10",250 lbs,Kentucky,"$5,005,350 "
+Damian Lillard,Portland Trail Blazers,PG,30,6' 2",195 lbs,Weber State,"$31,626,953 "
+Nassir Little,Portland Trail Blazers,SF,20,6' 5",220 lbs,North Carolina,"$2,210,640 "
+CJ McCollum,Portland Trail Blazers,SG,29,6' 3",190 lbs,Lehigh,"$29,354,152 "
+Jusuf Nurkic,Portland Trail Blazers,C,26,7' 0",290 lbs,--,"$12,888,889 "
+Anfernee Simons,Portland Trail Blazers,SG,21,6' 3",181 lbs,--,"$2,252,040 "
+Caleb Swanigan,Portland Trail Blazers,PF,23,6' 9",260 lbs,Purdue,--
+Gary Trent Jr.,Portland Trail Blazers,SG,21,6' 5",209 lbs,Duke,"$1,663,861 "
+Udoka Azubuike,Utah Jazz,C,21,7' 0",270 lbs,Kansas,"$1,977,000 "
+Trevon Bluiett,Utah Jazz,SG,26,6' 6",198 lbs,Xavier,--
+Bojan Bogdanovic,Utah Jazz,SF,31,6' 8",216 lbs,--,"$17,850,000 "
+Jarrell Brantley,Utah Jazz,PF,24,6' 7",250 lbs,Charleston,--
+Jordan Clarkson,Utah Jazz,PG,28,6' 5",192 lbs,Missouri,"$11,500,000 "
+Mike Conley,Utah Jazz,PG,33,6' 1",175 lbs,Ohio State,"$34,502,130 "
+Derrick Favors,Utah Jazz,C,29,6' 10",265 lbs,Georgia Tech,"$9,258,000 "
+Trent Forrest,Utah Jazz,SG,22,6' 4",210 lbs,Florida State,--
+Rudy Gobert,Utah Jazz,C,28,7' 1",245 lbs,--,"$27,525,281 "
+Shaquille Harrison,Utah Jazz,PG,27,6' 7",190 lbs,Tulsa,--
+Elijah Hughes,Utah Jazz,SF,22,6' 6",215 lbs,Syracuse,"$898,310 "
+Joe Ingles,Utah Jazz,SF,33,6' 8",226 lbs,--,"$10,863,637 "
+Donovan Mitchell,Utah Jazz,SG,24,6' 3",215 lbs,Louisville,"$5,195,501 "
+Juwan Morgan,Utah Jazz,SF,23,6' 8",232 lbs,Indiana,"$1,517,981 "
+Georges Niang,Utah Jazz,SF,27,6' 8",230 lbs,Iowa State,"$1,783,557 "
+Royce O'Neale,Utah Jazz,SF,27,6' 6",226 lbs,Baylor,"$8,500,000 "
+Miye Oni,Utah Jazz,SG,23,6' 5",206 lbs,Yale,"$1,517,981 "
+Jake Toolson,Utah Jazz,SG,24,6' 5",205 lbs,BYU,--
+Nigel Williams-Goss,Utah Jazz,PG,26,6' 3",190 lbs,Gonzaga,"$1,517,981 "
+Kent Bazemore,Golden State Warriors,SG,31,6' 5",206 lbs,Old Dominion,"$1,620,564 "
+Marquese Chriss,Golden State Warriors,SF,23,6' 9",249 lbs,Washington,"$1,824,003 "
+Stephen Curry,Golden State Warriors,PG,32,6' 3",193 lbs,Davidson,"$43,006,362 "
+Draymond Green,Golden State Warriors,PF,30,6' 6",235 lbs,Michigan State,"$22,246,956 "
+Damion Lee,Golden State Warriors,SG,28,6' 5",203 lbs,Louisville,"$1,762,796 "
+Kevon Looney,Golden State Warriors,PF,24,6' 9",250 lbs,UCLA,"$4,464,226 "
+Nico Mannion,Golden State Warriors,PG,19,6' 2",188 lbs,Arizona,--
+Mychal Mulder,Golden State Warriors,G,26,6' 4",193 lbs,Kentucky,"$1,517,981 "
+Kelly Oubre Jr.,Golden State Warriors,SF,25,6' 6",192 lbs,Kansas,"$14,375,000 "
+Eric Paschall,Golden State Warriors,PF,24,6' 6",264 lbs,Villanova,"$1,517,981 "
+Jordan Poole,Golden State Warriors,SG,21,6' 4",194 lbs,Michigan,"$2,063,280 "
+Alen Smailagic,Golden State Warriors,PF,20,6' 10",241 lbs,--,"$1,517,981 "
+Dwayne Sutton,Golden State Warriors,SF,23,6' 4",212 lbs,Louisville,--
+Klay Thompson,Golden State Warriors,SG,30,6' 6",215 lbs,Washington State,"$35,361,360 "
+Juan Toscano-Anderson,Golden State Warriors,SF,27,6' 6",213 lbs,Marquette,"$1,517,981 "
+Axel Toupane,Golden State Warriors,SF,28,6' 6",220 lbs,--,--
+Brad Wanamaker,Golden State Warriors,PG,31,6' 3",222 lbs,Pittsburgh,"$2,250,000 "
+Kaleb Wesson,Golden State Warriors,PF,21,6' 9",255 lbs,Ohio State,--
+Andrew Wiggins,Golden State Warriors,SF,25,6' 7",205 lbs,Kansas,"$29,542,010 "
+James Wiseman,Golden State Warriors,C,19,7' 0",244 lbs,Memphis,"$8,730,240 "
+Nicolas Batum,La Clippers,SF,31,6' 9",230 lbs,--,--
+Patrick Beverley,La Clippers,PG,32,6' 1",180 lbs,Arkansas,"$13,333,333 "
+Ky Bowman,La Clippers,PG,23,6' 1",187 lbs,Boston College,"$1,517,981 "
+Amir Coffey,La Clippers,SG,23,6' 7",210 lbs,Minnesota,--
+Malik Fitts,La Clippers,F,23,6' 8",230 lbs,Saint Mary's,--
+Jordan Ford,La Clippers,PG,22,6' 1",175 lbs,Saint Mary's,--
+Paul George,La Clippers,SG,30,6' 8",220 lbs,Fresno State,"$35,450,412 "
+Serge Ibaka,La Clippers,C,31,7' 0",235 lbs,--,"$9,258,000 "
+Reggie Jackson,La Clippers,PG,30,6' 3",208 lbs,Boston College,"$1,620,564 "
+Mfiondu Kabengele,La Clippers,PF,23,6' 9",250 lbs,Florida State,"$2,075,880 "
+Luke Kennard,La Clippers,SG,24,6' 5",206 lbs,Duke,"$5,273,826 "
+Kawhi Leonard,La Clippers,SF,29,6' 7",225 lbs,San Diego State,"$34,379,100 "
+Terance Mann,La Clippers,SG,24,6' 5",215 lbs,Florida State,"$1,517,981 "
+Marcus Morris Sr.,La Clippers,SF,31,6' 8",218 lbs,Kansas,"$14,888,721 "
+Daniel Oturu,La Clippers,C,21,6' 10",240 lbs,Minnesota,"$898,310 "
+Patrick Patterson,La Clippers,PF,31,6' 8",235 lbs,Kentucky,"$3,077,704 "
+Jay Scrubb,La Clippers,SG,20,6' 6",210 lbs,--,--
+Rayjon Tucker,La Clippers,SG,23,6' 3",209 lbs,Arkansas-Little Rock,--
+Lou Williams,La Clippers,SG,34,6' 1",175 lbs,--,"$8,000,000 "
+Ivica Zubac,La Clippers,C,23,7' 0",240 lbs,--,"$7,000,000 "
+Kostas Antetokounmpo,Los Angeles Lakers,PF,23,6' 10",200 lbs,Dayton,--
+Devontae Cacok,Los Angeles Lakers,C,24,6' 8",240 lbs,North Carolina-Wilmington,--
+Kentavious Caldwell-Pope,Los Angeles Lakers,SG,27,6' 5",204 lbs,Georgia,"$12,073,020 "
+Alex Caruso,Los Angeles Lakers,SG,26,6' 5",186 lbs,Texas A&M,"$2,750,000 "
+Quinn Cook,Los Angeles Lakers,PG,27,6' 1",180 lbs,Duke,"$1,620,564 "
+Anthony Davis,Los Angeles Lakers,PF,27,6' 10",253 lbs,Kentucky,"$32,742,000 "
+Jared Dudley,Los Angeles Lakers,SF,35,6' 6",237 lbs,Boston College,--
+Marc Gasol,Los Angeles Lakers,C,35,6' 11",255 lbs,--,"$2,564,753 "
+Montrezl Harrell,Los Angeles Lakers,PF,26,6' 7",240 lbs,Louisville,"$9,258,000 "
+Talen Horton-Tucker,Los Angeles Lakers,SG,20,6' 4",234 lbs,Iowa State,"$1,517,981 "
+LeBron James,Los Angeles Lakers,SF,35,6' 9",250 lbs,--,"$39,219,565 "
+Kyle Kuzma,Los Angeles Lakers,PF,25,6' 8",221 lbs,Utah,"$3,562,178 "
+Wesley Matthews,Los Angeles Lakers,SG,34,6' 4",220 lbs,Marquette,"$3,623,000 "
+Alfonzo McKinnie,Los Angeles Lakers,SF,28,6' 7",215 lbs,Green Bay,"$1,762,796 "
+Markieff Morris,Los Angeles Lakers,PF,31,6' 8",245 lbs,Kansas,"$1,620,564 "
+Dennis Schroder,Los Angeles Lakers,PG,27,6' 1",172 lbs,--,"$16,000,000 "
+Zavier Simpson,Los Angeles Lakers,G,--,6' 0",190 lbs,Michigan,--
+JR Smith,Los Angeles Lakers,SG,35,6' 6",225 lbs,--,--
+Ty-Shon Alexander,Phoenix Suns,SG,22,6' 4",200 lbs,Creighton,--
+Deandre Ayton,Phoenix Suns,C,22,6' 11",250 lbs,Arizona,"$9,562,920 "
+Devin Booker,Phoenix Suns,SG,24,6' 5",206 lbs,Kentucky,"$27,285,000 "
+Mikal Bridges,Phoenix Suns,SF,24,6' 6",209 lbs,Villanova,"$4,161,000 "
+Jevon Carter,Phoenix Suns,PG,25,6' 1",200 lbs,West Virginia,"$3,925,000 "
+Jae Crowder,Phoenix Suns,SF,30,6' 6",235 lbs,Marquette,"$7,815,533 "
+Cheick Diallo,Phoenix Suns,PF,24,6' 8",219 lbs,Kansas,--
+Langston Galloway,Phoenix Suns,SG,29,6' 1",200 lbs,Saint Joseph's,--
+Cameron Johnson,Phoenix Suns,SF,24,6' 8",210 lbs,North Carolina,"$4,033,440 "
+Damian Jones,Phoenix Suns,C,25,6' 11",245 lbs,Vanderbilt,"$1,737,145 "
+E'Twaun Moore,Phoenix Suns,SG,31,6' 3",191 lbs,Purdue,--
+Johnathan Motley,Phoenix Suns,PF,25,6' 8",230 lbs,Baylor,--
+Abdel Nader,Phoenix Suns,SF,27,6' 5",225 lbs,Iowa State,"$1,618,520 "
+Tariq Owens,Phoenix Suns,F,25,6' 10",205 lbs,Texas Tech,--
+Chris Paul,Phoenix Suns,PG,35,6' 1",175 lbs,Wake Forest,"$41,358,814 "
+Cameron Payne,Phoenix Suns,PG,26,6' 3",190 lbs,Murray State,"$1,737,145 "
+Dario Saric,Phoenix Suns,PF,26,6' 10",225 lbs,--,"$9,250,000 "
+Jalen Smith,Phoenix Suns,PF,20,6' 10",225 lbs,Maryland,"$4,245,720 "
+Marvin Bagley III,Sacramento Kings,PF,21,6' 11",235 lbs,Duke,"$8,963,640 "
+Harrison Barnes,Sacramento Kings,SF,28,6' 8",225 lbs,North Carolina,"$22,215,909 "
+Nemanja Bjelica,Sacramento Kings,PF,32,6' 10",234 lbs,--,"$7,150,000 "
+Corey Brewer,Sacramento Kings,SG,34,6' 9",186 lbs,Florida,--
+Yogi Ferrell,Sacramento Kings,PG,27,6' 0",178 lbs,Indiana,--
+De'Aaron Fox,Sacramento Kings,PG,22,6' 3",185 lbs,Kentucky,"$8,099,627 "
+Kyle Guy,Sacramento Kings,SG,23,6' 1",167 lbs,Virginia,--
+Tyrese Haliburton,Sacramento Kings,PG,20,6' 5",175 lbs,Iowa State,"$3,831,840 "
+Buddy Hield,Sacramento Kings,SG,27,6' 4",220 lbs,Oklahoma,"$4,861,208 "
+Richaun Holmes,Sacramento Kings,C,27,6' 10",235 lbs,Bowling Green,"$4,767,000 "
+Justin James,Sacramento Kings,SG,23,6' 7",190 lbs,Wyoming,"$1,517,981 "
+DaQuan Jeffries,Sacramento Kings,SG,23,6' 5",230 lbs,Tulsa,"$1,445,697 "
+Cory Joseph,Sacramento Kings,PG,29,6' 3",200 lbs,Texas,"$12,600,000 "
+Frank Kaminsky,Sacramento Kings,C,27,7' 0",240 lbs,Wisconsin,"$1,620,564 "
+Chimezie Metu,Sacramento Kings,PF,23,6' 9",225 lbs,USC,"$1,620,564 "
+Jabari Parker,Sacramento Kings,PF,25,6' 8",245 lbs,Duke,"$6,500,000 "
+Jahmi'us Ramsey,Sacramento Kings,SG,19,6' 4",195 lbs,Texas Tech,"$1,000,000 "
+Glenn Robinson III,Sacramento Kings,SF,26,6' 6",222 lbs,Michigan,"$1,620,564 "
+Hassan Whiteside,Sacramento Kings,C,31,7' 0",265 lbs,Marshall,"$1,620,564 "
+Robert Woodard II,Sacramento Kings,SG,21,6' 7",235 lbs,Mississippi State,"$1,500,000 "
+Bogdan Bogdanovic,Atlanta Hawks,SG,28,6' 6",220 lbs,--,"$18,000,000 "
+Clint Capela,Atlanta Hawks,C,26,6' 10",240 lbs,--,"$16,000,000 "
+John Collins,Atlanta Hawks,PF,23,6' 9",240 lbs,Wake Forest,"$4,137,302 "
+Kris Dunn,Atlanta Hawks,PG,26,6' 3",205 lbs,Providence,"$4,767,000 "
+Bruno Fernando,Atlanta Hawks,PF,22,6' 9",240 lbs,Maryland,"$1,517,981 "
+Danilo Gallinari,Atlanta Hawks,PF,32,6' 10",233 lbs,--,"$19,500,000 "
+Brandon Goodwin,Atlanta Hawks,PG,25,6' 0",180 lbs,Florida Gulf Coast,"$1,701,593 "
+Solomon Hill,Atlanta Hawks,SF,29,6' 6",226 lbs,Arizona,"$1,620,564 "
+Kevin Huerter,Atlanta Hawks,SG,22,6' 7",190 lbs,Maryland,"$2,761,920 "
+De'Andre Hunter,Atlanta Hawks,SF,23,6' 7",225 lbs,Virginia,"$7,422,000 "
+Nathan Knight,Atlanta Hawks,PF,23,6' 10",235 lbs,William & Mary,--
+Skylar Mays,Atlanta Hawks,SG,23,6' 4",205 lbs,LSU,--
+Onyeka Okongwu,Atlanta Hawks,PF,20,6' 9",245 lbs,USC,"$5,813,640 "
+Cam Reddish,Atlanta Hawks,SF,21,6' 8",218 lbs,Duke,"$4,458,000 "
+Rajon Rondo,Atlanta Hawks,PG,34,6' 1",180 lbs,Kentucky,"$7,500,000 "
+Tony Snell,Atlanta Hawks,SG,29,6' 6",213 lbs,New Mexico,"$12,178,571 "
+Trae Young,Atlanta Hawks,PG,22,6' 1",180 lbs,Oklahoma,"$6,571,800 "
+LaMelo Ball,Charlotte Hornets,PG,19,6' 7",181 lbs,--,"$7,839,960 "
+Bismack Biyombo,Charlotte Hornets,C,28,6' 9",255 lbs,--,"$3,500,000 "
+Miles Bridges,Charlotte Hornets,SF,22,6' 7",225 lbs,Michigan State,"$3,934,320 "
+Vernon Carey Jr.,Charlotte Hornets,C,19,6' 10",270 lbs,Duke,"$1,350,000 "
+Keandre Cook,Charlotte Hornets,SG,23,6' 5",187 lbs,Missouri State,--
+Nate Darling,Charlotte Hornets,SG,22,6' 5",200 lbs,Delaware,--
+Javin DeLaurier,Charlotte Hornets,PF,22,6' 10",237 lbs,Duke,--
+Devonte' Graham,Charlotte Hornets,PG,25,6' 2",185 lbs,Kansas,"$1,517,981 "
+Gordon Hayward,Charlotte Hornets,SF,30,6' 7",225 lbs,Butler,"$28,500,000 "
+Caleb Martin,Charlotte Hornets,SF,25,6' 7",205 lbs,Nevada,"$1,517,981 "
+Cody Martin,Charlotte Hornets,SF,25,6' 7",205 lbs,Nevada,"$1,173,310 "
+Jalen McDaniels,Charlotte Hornets,PF,22,6' 10",205 lbs,San Diego State,"$1,517,981 "
+Malik Monk,Charlotte Hornets,SG,22,6' 3",200 lbs,Kentucky,"$5,345,687 "
+Nick Richards,Charlotte Hornets,C,23,6' 11",247 lbs,Kentucky,"$1,000,000 "
+Grant Riller,Charlotte Hornets,PG,23,6' 3",190 lbs,Charleston,--
+Terry Rozier,Charlotte Hornets,PG,26,6' 1",190 lbs,Louisville,"$18,900,000 "
+Xavier Sneed,Charlotte Hornets,SF,22,6' 5",220 lbs,Kansas State,--
+PJ Washington,Charlotte Hornets,PF,22,6' 7",236 lbs,Kentucky,"$4,023,600 "
+Kahlil Whitney,Charlotte Hornets,SF,19,6' 6",210 lbs,Kentucky,--
+Cody Zeller,Charlotte Hornets,PF,28,7' 0",240 lbs,Indiana,--
