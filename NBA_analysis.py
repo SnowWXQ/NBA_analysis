@@ -152,8 +152,8 @@ def update_output_div1(team, attribute, age):
     [Input(component_id='team', component_property='value')]
 )
 def update_output_div2(team):
-    img = html.Img(src="./team_logo/{}.png".format(team), style={'display': 'inline-block'})       # 这里的logo显示不出来，至今没找到原因
-    # return img          # 队徽显示不出来，所以我给隐藏了，后期能显示出来再加上
+    img = html.Img(src="./team_logo/{}.png".format(team), style={'display': 'inline-block'})       
+    return img          # 队徽显示不出来，后期能显示出来再加上
 
 if __name__ == '__main__':
     app.run_server(debug=True)
